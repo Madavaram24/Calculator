@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  body{
+    background-image: linear-gradient(to bottom, #070803, #9c883a, #0cf1f9);
+    height: 100vh;
+    top: 50%;
+    left: 50%;
+  }
+  .heading{
+    height: 58px;
+    margin-bottom: 27px;
+    text-align: center;
+  }
+  .heading > h1{
+    font-size: 52px;
+    margin-left: 18px;
+    color: white;
+    justify-content: center;
+  }
+  .container{
+    text-align: center;
+    margin-top: 25px;
+    border-style: groove;
+    padding: 20px;
+    width: fit-content;
+    margin: auto;
+    border-radius: 10px;
+  }
+  .table{
+    margin: auto;
+  }
+  input{
+    font-size: 25px;
+    border-radius: 15px;
+    padding: 10px;
+    text-align: end;
+  }
+  button{
+    font-size: 25px;
+    width: 100%;
+    width: 77px;
+    height: 59px;
+    border-radius: 5px;
+    margin: 3px;
+  }
+  .back{
+    align-content: center;
+  
+  }
